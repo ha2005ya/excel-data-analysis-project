@@ -32,9 +32,6 @@ The objective is to convert raw data into meaningful insights using Excel formul
 - Pivot Charts  
 - Grouping & Aggregation  
 
-## 📸 Dashboard Preview
-![Dashboard](Excel 05_12_2025 15_40_14.png)
-
 ## 👤 Author
 **Haya Hany**  
 Email: h20a05ya@gmail.com  
